@@ -1,1 +1,1 @@
-Simple notes on various stackoverflow questions
+Simple notes on various stackoverflow/stackexchange questions or answers
